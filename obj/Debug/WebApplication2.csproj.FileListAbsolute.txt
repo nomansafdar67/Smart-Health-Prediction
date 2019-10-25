@@ -1,0 +1,297 @@
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\syed imran\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+F:\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+F:\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+F:\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+F:\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+F:\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+F:\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+F:\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+F:\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+F:\WebApplication2\WebApplication2\bin\WebApplication2.dll
+F:\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+F:\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+F:\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+F:\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+F:\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+F:\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+F:\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+F:\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+F:\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+F:\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+F:\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+F:\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+F:\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Mehroz Elahi\Documents\Zapya\Misc\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Adeel\Documents\Zapya\Misc\Smart Health Prediction2\Users\Mehroz Elahi\Documents\Zapya\Misc\Smart Health Prediction2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Adeel\Desktop\Smart Health Prediction2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\WebApplication2.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adeel\Desktop\SHP\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adeel\Desktop\SHP\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Adeel\Desktop\SHP\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Adeel\Desktop\SHP\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\WebApplication2.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Adeel\Desktop\SHP\SHP\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\WebApplication2.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adeel\OneDrive\SHP\SHP\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\ApplicationInsights.config
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\csc.exe
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\vbc.exe
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\VBCSCompiler.exe
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\WebApplication2.dll.config
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\WebApplication2.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\WebApplication2.pdb
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.AI.Web.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.AI.Web.xml
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\obj\Debug\WebApplication2.dll
+E:\nomi'work\FYPS\SHP\SHP\WebApplication2\obj\Debug\WebApplication2.pdb

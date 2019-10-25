@@ -1,0 +1,74 @@
+﻿body {
+}
+
+#header{
+
+    height:80px;
+    background-color:#ff9999;
+}
+
+
+
+.navbar{
+
+ 
+}
+
+.affix {
+      top: 0;
+      width: 100%;
+  }
+
+  .affix + .container-fluid {
+      padding-top: 70px;
+  }
+
+ .card  {
+
+     
+     
+ }
+ #news{
+
+    
+     
+
+
+ }
+
+
+ #slider{
+     max-height:200px;
+ }
+ .textSize li{
+     font-size:13px;
+
+ }
+ /*login styling*/
+ .wrap-login{
+      margin-top:100px;
+      background-color:#fff;
+      border:solid 1px #d0d0d0;
+      -webkit-box-shadow: 0px -1px 20px -4px rgba(0,0,0,0.54);
+-moz-box-shadow: 0px -1px 20px -4px rgba(0,0,0,0.54);
+box-shadow: 0px -1px 20px -4px rgba(0,0,0,0.54);
+  }
+
+ .btn {
+
+     background-color:#AB082B;
+     color:white;
+     
+ }
+ .mr{
+
+     background-image:url(Dubai-Doctors-Directory-Dubai-UAE.jpg);
+ }
+ .bt{
+     color:white;
+ }
+ #appointment{
+     float:right;
+    top: 0px;
+    left: 0px;
+}
